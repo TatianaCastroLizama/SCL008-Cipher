@@ -1,1 +1,37 @@
-/* Acá va tu código */
+body{ text-align: center;
+}
+#subTitles{
+  background-color: gainsboro;
+}
+h1{
+  color: crimson;
+  padding: 20px 20px 20px 20px;
+  margin: 15px 200px 10px 200px;
+}
+#homeEncode{
+  display: none;
+}
+#instruction{
+  display: none;
+}
+#decoForm{
+  display: none;
+}
+#form
+{
+  display:none;
+}
+#text{
+
+  width: 50%;
+  height: 100px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+footer{
+  background-color: whitesmoke;
+}

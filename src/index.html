@@ -1,15 +1,111 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hola mundo!</h1>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Aplicación Codificar/Decodificar</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
+    
+        
+
+<div id="home">
+    <div id="imgTitle">
+    <img src="http://emsavalles.com/CGI-BIN/fotos/marcha.jpg" alt="Responsive image">   
     </div>
-    <script src="cipher.js"></script>
-    <script src="index.js"></script>
-  </body>
+    
+    <div id="title">
+    <h1>"CORRER LA FLECHA"</h1>
+    </div>
+
+    <div id="subTitle">
+    <h3>Convoca y asiste a una manifestación</h3> 
+    <div></div>
+    <h3>Organiza e invita de manera privada.</h3>
+    <div></div>
+     <h4>-Codifica tu mensaje, para convocar y compartir.</h4>
+    <div></div>
+    <h4>-Decodifica y asiste.</h4>
+    </div>
+  
+    <div id="buttonsCode">
+        <button id="encode">codificar </button>
+        <button id="decode"> decodificar </button>
+    </div>
+
+
+</div>
+
+<div id="instruction">
+    <h3>Instrucciones</h3>
+    <div></div>
+    <p>-A definir numero offset por el usurio y explicar al mismo</p>
+    <div></div>
+    <p>-Escribe tu convocatoria en el cuadro de texto, dale click al botón codificar y comparte. </p>
+    <p>-No usar Ñ, puedes reemplazar por N</p>
+    <p>-Solo mayúsculas</p>
+</div>
+
+
+<div id="homeEncode">   
+<h2>Codifica tu convocatoria</h2>
+<div></div>
+<input type="text" placeholder="Ingresa tu texto" id="text">
+<div>
+    <p>Número de seguridad</p>
+</div>
+<input type="number"  placeholder= "ingresar offset" id="offset">
+ 
+<div id="buttonsCode">
+<button id="goEncode">Codificar </button>
+<div></div>
+
+ <button id="correo">Compartir por correo @</button>
+ <div></div>
+</div>
+</div>
+<button id="backHome">Volver al inicio</button>
+
+
+
+<div id="contenedor_datos"> 
+
+    </div>
+
+<div id="decoForm">
+    <input type="text" placeholder="ingresa tu texto" id="text">
+    <div>
+        <p>Número de seguridad</p>
+    </div>
+    <input type="number"  placeholder= "ingresar offset" id="offset">
+
+    <button id="button_enterTwo">Decodifica</button>
+   
+</div>
+
+
+
+
+<div></div>
+    
+
+
+
+
+<script src="index.js"></script>
+<script src="cipher.js"></script>
+
+
+</body>
+
+<footer>
+<div id="imgFooter">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6McHEPOB_wmCJjmnnAjFuG5XPxaw6PEv7Xey7wNGnSObujMONA" alt="Responsive image">
+</div>
+    <footer>
+
 </html>
