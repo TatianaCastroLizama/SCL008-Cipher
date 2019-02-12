@@ -1,14 +1,14 @@
-#PROYECTO CIFRADO CÉSAR
-##"CORRER LA FLECHA"
+# PROYECTO CIFRADO CÉSAR
+## "CORRER LA FLECHA"
 
-##Uso de la aplicación
+## Uso de la aplicación
 
 Esta aplicación está pensada para la organización de convocatorias para manifestaciones masivas, de planificación privada. El uso del cifrado funciona para movimientos que quieren reservar ciertos aspectos de los lineamientos.
 
 Funciona  en grupos y organizaciones que quieran ser estrictos en los procesos de mensajería a convocatorias.
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Titbanner1.jpg")
+![Alt text](relative/path/to/img.jpg?raw=true "banner1.jpg")
 
 
 
