@@ -32,6 +32,17 @@ h1{
   background-color: #f8f8f8;
   resize: none;
 }
+#textTwo{
+
+  width: 50%;
+  height: 100px;
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
 footer{
   background-color: whitesmoke;
 }
