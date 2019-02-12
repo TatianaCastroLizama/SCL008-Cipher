@@ -32,22 +32,21 @@ window.onload = () => {
   });
 
 
-  const offset = document.getElementById('offset');
   const button_enter = document.getElementById('goEncode');
-  const contenedor = document.getElementById('contendedor_datos');
+  
 
 
   button_enter.addEventListener('click', () => {
 
     let encodvr = document.getElementById('text').value;
-    let offset = document.getElementById('offset').value;
-    let resultEncode = window.cipher.encode(offset, encodvr);
+    let offsetEncode = document.getElementById('offset').value;
+    let resultEncode = window.cipher.encode(offsetEncode, encodvr);
 
     document.getElementById("contenedor_datos").innerHTML = (resultEncode);
 
-    const numbSecur = document.getElementById('offsetTwo');
+    
     const button_enterTwo = document.getElementById('button_enterTwo');
-    const contenerDeco = document.getElementById('contenedor_datos_deco');
+   
 
     button_enterTwo.addEventListener('click', () => {
       let decovr = document.getElementById('textTwo');
