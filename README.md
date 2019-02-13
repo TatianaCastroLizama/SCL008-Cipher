@@ -19,7 +19,7 @@ Funciona  en grupos y organizaciones que quieran ser estrictos en los procesos d
 
 Para llevar a cabo el proyecto, se dedicó tiempo a planificar tareas, desde el estudio de diversos aspectos técnicos, hasta el cifrado César y código Ascci.
 
-![cargando imágen]("banner6.jpg")
+![banner6]("banner6.jpg")
 
 Se requirió bastante esfuerzo en organizar contenidos que debía adquirir para comenzar a visibilizar aspectos técnicos y reales de la aplicación, tales como "Dom":
 
@@ -27,7 +27,7 @@ Se requirió bastante esfuerzo en organizar contenidos que debía adquirir para 
 El DOM es la estructura de objetos que genera el navegador cuando se carga un documento y se puede alterar mediante Javascript para cambiar dinámicamente los contenidos y aspecto de la página. DOM es una abreviatura de Document Objet Model.
 
 
-![cargando imágen]("banner2.jpg")
+![banner2]("banner2.jpg")
 
 ### Siguiendo la planificación:
 Se hizo uso del cifrado César y codigo Ascci. Los cuáles son parte fundamental de la aplicación, ya que a través del manejo de la formula dada, se puede originar este cifrado. 
@@ -37,7 +37,7 @@ Se hizo uso del cifrado César y codigo Ascci. Los cuáles son parte fundamental
 
 Desde el comienzo del proyecto se pensó en realizar tres pantallas, para generar mayor seguridad al usuario. Ya que esta aplicación, está pensada en codificar información importante, y los pasos a seguir, indican que ya existen áreas diferentes, ya sea para codificar, y para decodificar.
 
-![cargando imágen]("banner3.jpg")("banner4.jpg") ("banner5.jpg")
+![banner3]("banner3.jpg") ![banner4]("banner4.jpg") ![banner5]("banner5.jpg")
 
 
 
@@ -46,7 +46,7 @@ Desde el comienzo del proyecto se pensó en realizar tres pantallas, para genera
 ## Resultados
 
 
-<p style='color:red'>This is some red text.</p>
+
 
 
 
