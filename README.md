@@ -52,9 +52,11 @@ Desde el comienzo del proyecto se pensó en realizar tres pantallas, para genera
  - Se ha desarrollado una aplicación a la que se implmentarán mejoras en nuevas versiones.
  - Se logró realizar tres pantallas en las cuáles el usuario, puede codificar su mensaje, con un número de seguridad (offset).
  - En próximo desarrollo y mejora, podría compartirse el cifrado por correo eléctronico.
-
+# Primera Pantalla "INICIO"
 ![banner1](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner1.jpg)  
+# Segunda Pantalla "CODIFICADO"
 ![banner7](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner7.jpg)
+#Tercera Pantalla "DECODIFICADO"
 ![banner8](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner8.jpg)
 
 ### DATOS DE INTERÉS
