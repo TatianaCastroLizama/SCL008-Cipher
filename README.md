@@ -19,7 +19,7 @@ Funciona  en grupos y organizaciones que quieran ser estrictos en los procesos d
 
 Para llevar a cabo el proyecto, se dedicó tiempo a planificar tareas, desde el estudio de diversos aspectos técnicos, hasta el cifrado César y código Ascci.
 
-![banner6]("banner6.jpg")
+(https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner6.jpg)
 
 Se requirió bastante esfuerzo en organizar contenidos que debía adquirir para comenzar a visibilizar aspectos técnicos y reales de la aplicación, tales como "Dom":
 
@@ -27,7 +27,7 @@ Se requirió bastante esfuerzo en organizar contenidos que debía adquirir para 
 El DOM es la estructura de objetos que genera el navegador cuando se carga un documento y se puede alterar mediante Javascript para cambiar dinámicamente los contenidos y aspecto de la página. DOM es una abreviatura de Document Objet Model.
 
 
-![banner2]("banner2.jpg")
+((https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner2.jpg)
 
 ### Siguiendo la planificación:
 Se hizo uso del cifrado César y codigo Ascci. Los cuáles son parte fundamental de la aplicación, ya que a través del manejo de la formula dada, se puede originar este cifrado. 
