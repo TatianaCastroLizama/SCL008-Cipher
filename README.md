@@ -43,9 +43,8 @@ Video con el cuál trabajamos:
 
 Desde el comienzo del proyecto se pensó en realizar tres pantallas, para generar mayor seguridad al usuario. Ya que esta aplicación, está pensada en codificar información importante, y los pasos a seguir, indican que ya existen áreas diferentes, ya sea para codificar, y para decodificar.
 
-![banner3](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner3.jpg) 
-![banner4](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner4.jpg)
-![banner5](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner5.jpg)
+![banner9](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner9.jpg) 
+
 
 
 ## Resultados
