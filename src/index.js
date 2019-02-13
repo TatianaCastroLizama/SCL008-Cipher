@@ -4,7 +4,8 @@ window.onload = () => {
   const instrucciones = document.getElementById('instruction');
   const casacodifi = document.getElementById('homeEncode');
   const casaDecode = document.getElementById("decoForm");
-  const titleResult = document.getElementById("esteEs")
+  const titleDeco = document.getElementById("titleDeco");
+
 
 
   botonEncode.addEventListener('click', () => {
@@ -12,7 +13,7 @@ window.onload = () => {
     casaDecode.style.display = "none";
     instrucciones.style.display = "block";
     casacodifi.style.display = "block";
-    titleResult.style.display = "block";
+    
   });
 
 
@@ -23,6 +24,7 @@ window.onload = () => {
     casacodifi.style.display = "none";
     instrucciones.style.display = "block";
     casaDecode.style.display = "block";
+    titleDeco.style.display = "block";
   });
 
   const botonVolver = document.getElementById('backHome');
@@ -45,19 +47,17 @@ window.onload = () => {
     let resultEncode = window.cipher.encode(offsetEncode, encodvr);
 
     document.getElementById("contenedor_datos").innerHTML = (resultEncode);
+  })
 
-    
-    const button_enterTwo = document.getElementById('button_enterTwo');
+  const button_enterTwo = document.getElementById('button_enterTwo');
    
 
-    button_enterTwo.addEventListener('click', () => {
-      let decovr = document.getElementById('textTwo');
-      let numbSecur = document.getElementById('offsetTwo');
-      let resultDeco = window.cipher.decode(numbSecur, decovr);
+  button_enterTwo.addEventListener('click', () => {
+    let decovr = document.getElementById('textTwo').value;
+    let numbSecur = document.getElementById('offsetTwo').value;
+    let resultDeco = window.cipher.decode(numbSecur, decovr);
 
-      document.getElementById("contenedor_datos_deco").innerHTML = (resultDeco);
-
-    })
+    document.getElementById("contenedor_datos_deco").innerHTML = (resultDeco);
 
   })
 }
