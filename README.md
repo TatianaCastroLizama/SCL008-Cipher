@@ -19,7 +19,7 @@ Funciona  en grupos y organizaciones que quieran ser estrictos en los procesos d
 
 Para llevar a cabo el proyecto, se dedicó tiempo a planificar tareas, desde el estudio de diversos aspectos técnicos, hasta el cifrado César y código Ascci.
 
-[![banner6](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner6.jpg)
+![banner6](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner6.jpg)
 
 Se requirió bastante esfuerzo en organizar contenidos que debía adquirir para comenzar a visibilizar aspectos técnicos y reales de la aplicación, tales como "Dom":
 
@@ -43,9 +43,9 @@ Video con el cuál trabajamos:
 
 Desde el comienzo del proyecto se pensó en realizar tres pantallas, para generar mayor seguridad al usuario. Ya que esta aplicación, está pensada en codificar información importante, y los pasos a seguir, indican que ya existen áreas diferentes, ya sea para codificar, y para decodificar.
 
-![banner3]("banner3.jpg")  
-![banner4]("banner4.jpg")
-![banner5]("banner5.jpg")
+![banner3](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner3.jpg) 
+![banner4](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner4.jpg)
+![banner5](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner5.jpg)
 
 
 ## Resultados
@@ -54,10 +54,12 @@ Desde el comienzo del proyecto se pensó en realizar tres pantallas, para genera
  - Se logró realizar tres pantallas en las cuáles el usuario, puede codificar su mensaje, con un número de seguridad (offset).
  - En próximo desarrollo y mejora, podría compartirse el cifrado por correo eléctronico.
 
-![banner1]("banner1.jpg")  
-![banner7]("banner7.jpg")
-![banner8]("banner8.jpg")
+![banner1](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner1.jpg)  
+![banner7](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner7.jpg)
+![banner8](https://github.com/TatianaCastroLizama/SCL008-Cipher/blob/master/banner8.jpg)
 
+### DATOS DE INTERÉS
 
-
+> Porqué "Correr la flecha":
+> Acción que realiazaba el pueblo mapuche al momento de convocarse secretamente ante reúniones de planificación, "hacían correr una flecha entre los participantes y líderes. 
 
