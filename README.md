@@ -1,38 +1,56 @@
 # PROYECTO CIFRADO CÉSAR
-## "CORRER LA FLECHA"
+## "CORRER LA FLECHA Primera Versión"
 
 ## Uso de la aplicación
 
-Esta aplicación está pensada para la organización de convocatorias para manifestaciones masivas, de planificación privada. El uso del cifrado funciona para movimientos que quieren reservar ciertos aspectos de los lineamientos.
+Esta aplicación está pensada para la organización de manifestaciones masivas, de planificación privada. El uso del cifrado funciona en ésta aplicación, para grupos de personas que quieren reservar ciertos aspectos de los lineamientos de su convocatoria.
 
 Funciona  en grupos y organizaciones que quieran ser estrictos en los procesos de mensajería a convocatorias.
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "banner1.jpg")
+![cargando imágen]("banner1.jpg")
+
+
+
+## PROCESOS Y ASPECTOS TÉCNICOS:
+
+
+### Planificación
+
+Para llevar a cabo el proyecto, se dedicó tiempo a planificar tareas, desde el estudio de diversos aspectos técnicos, hasta el cifrado César y código Ascci.
+
+![cargando imágen]("banner6.jpg")
+
+Se requirió bastante esfuerzo en organizar contenidos que debía adquirir para comenzar a visibilizar aspectos técnicos y reales de la aplicación, tales como "Dom":
+
+### La creación del Document Object Model o DOM 
+El DOM es la estructura de objetos que genera el navegador cuando se carga un documento y se puede alterar mediante Javascript para cambiar dinámicamente los contenidos y aspecto de la página. DOM es una abreviatura de Document Objet Model.
+
+
+![cargando imágen]("banner2.jpg")
+
+### Siguiendo la planificación:
+Se hizo uso del cifrado César y codigo Ascci. Los cuáles son parte fundamental de la aplicación, ya que a través del manejo de la formula dada, se puede originar este cifrado. 
+
+
+### PROTOTIPOS
+
+Desde el comienzo del proyecto se pensó en realizar tres pantallas, para generar mayor seguridad al usuario. Ya que esta aplicación, está pensada en codificar información importante, y los pasos a seguir, indican que ya existen áreas diferentes, ya sea para codificar, y para decodificar.
+
+![cargando imágen]("banner3.jpg")("banner4.jpg") ("banner5.jpg")
 
 
 
 
 
+## Resultados
 
-* `README.md`: debe explicar cómo descargar, instalar y ejecutar la aplicación
-  así como una introducción a la aplicación, su funcionalidad y decisiones de
-  diseño que tomaron.
-* `src/index.html`: este es el punto de entrada a tu aplicación. Este archivo
-  debe contener tu _markup_ (HTML) e incluir el CSS y JavaScript necesario.
-* `src/cipher.js`: acá debes implementar el objeto cipher, el cual debe estar
-  _exportado_ en el objeto global (`window`). Este objeto (`cipher`) debe
-  contener dos métodos:
-  - `cipher.encode(offset, string)`: `offset` es el número de posiciones que
-    queremos mover a la derecha en el alfabeto y `string` el mensaje (texto)
-    que queremos cifrar.
-  - `cipher.decode(offset, string)`: `offset` es el número de posiciones que
-    queremos mover a la izquierda en el alfabeto y `string` el mensaje
-    (texto) que queremos descifrar.
-* `src/index.js`: acá debes escuchar eventos del DOM, invocar `cipher.encode()`
-  o `cipher.decode()` según sea necesario y actualizar el resultado en la UI.
-* `test/cipher.spec.js`: este archivo contiene algunos tests de ejemplo y acá
-  tendrás que implementar los tests para `cipher.encode()` y `cipher.decode()`.
+
+<p style='color:red'>This is some red text.</p>
+
+
+
+
 
 ## Parte opcional o “Hacker edition”
 

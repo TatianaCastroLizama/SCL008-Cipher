@@ -3,14 +3,16 @@ window.onload = () => {
   const casa = document.getElementById('home');
   const instrucciones = document.getElementById('instruction');
   const casacodifi = document.getElementById('homeEncode');
-  const casaDecode = document.getElementById("decoForm")
+  const casaDecode = document.getElementById("decoForm");
+  const titleResult = document.getElementById("esteEs")
 
 
   botonEncode.addEventListener('click', () => {
     casa.style.display = "none";
-    casaDecode.style.display = "none;"
+    casaDecode.style.display = "none";
     instrucciones.style.display = "block";
     casacodifi.style.display = "block";
+    titleResult.style.display = "block";
   });
 
 
