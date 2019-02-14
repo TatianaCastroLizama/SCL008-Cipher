@@ -35,11 +35,34 @@ window.onload = () => {
     casacodifi.style.display = "none";
   });
 
+  const botonVolverTwo = document.getElementById('backHomeTwo');
+  botonVolverTwo.addEventListener('click', () => {
+    casa.style.display = "block";
+    instrucciones.style.display = "none";
+    casaDecode.style.display = "none";
+    casacodifi.style.display = "none";
+  });
+
+
+const clear = document.getElementById('limpiar');
+
+clear.addEventListener('click',(event) => {
+  
+  contenedor_datos.style.display = 'none'; 
+});
+
+const clearDeco = document.getElementById('limpiarDeco');
+
+clearDeco.addEventListener('click',(event) => {
+  
+  contenedor_datos_deco.style.display = 'none';
+});
+
+
+
 
   const button_enter = document.getElementById('goEncode');
   
-
-
   button_enter.addEventListener('click', () => {
 
     let encodvr = document.getElementById('text').value;

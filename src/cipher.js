@@ -36,4 +36,6 @@ window.cipher = {
     }
     return textDeco;
   }
+
+
 }
